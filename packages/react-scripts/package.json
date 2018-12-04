@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.1",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "noy-react-scripts",
+  "version": "2.1.2",
+  "description": "Configuration and scripts for Create React App with Noy stuff.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
   "engines": {
@@ -74,7 +74,11 @@
   },
   "devDependencies": {
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+
   },
   "optionalDependencies": {
     "fsevents": "1.2.4"
